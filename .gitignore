@@ -5,8 +5,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-**/settings.local.yml
-
 # C extensions
 *.so
 
@@ -213,3 +211,5 @@ Temporary Items
 
 .vscode
 .idea
+
+**/settings.local.yml
